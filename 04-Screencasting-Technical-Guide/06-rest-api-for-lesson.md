@@ -41,7 +41,7 @@ You're ready to go.
 
 ## Host a REST API
 
-Ziet's [now](https://zeit.co/now) is a great way to host any application needing it.
+Zeit's [now](https://zeit.co/now) is a great way to host any application needing it.
 
 Use the app John set up:
 
