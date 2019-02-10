@@ -38,6 +38,5 @@ We read Github like the Daily News, checking out new libraries and tools. Pourin
 
 We also spend time on Twitter, Hacker News, and Reddit. Not to mention the various "_______ Weekly" email newsletters that keep us up to date about specific technologies as they emerge over time.
 
-But, we definitely don't catch everything! If you would like to make content and have it published on egghead.io, we accept "audition" videos. Read the guide to get an idea of what is expected, post it on YouTube and [send us a link on Twitter](https://twitter.com/eggheadio). 
 
 
